@@ -28,6 +28,6 @@ Redis-server
     github.com/r0123r/go-redis-server - сервер с "нуля" мало функций, скорость не оптимальная, stor - только память
     
     github.com/r0123r/vredis - сервер на базе ledis, stor - память и goleveldb, http-интерфейс
-    - добавлен ftp-интерфейс для работы с файлами 
+    - добавлен ftp-интерфейс для работы с файлами (github.com/r0123r/ftpserver)
     - pub/sub сообщения
     - set-event(publish) при обновлении ключа типа KV
