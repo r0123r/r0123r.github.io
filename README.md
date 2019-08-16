@@ -23,3 +23,4 @@
       - добавлен ftp-интерфейс для работы с файлами ([ftpserver](https://github.com/r0123r/ftpserver))
       - pub/sub сообщения
       - set-event(publish) при обновлении ключа типа KV
+  - [Полезные библиотеки](libs.md)
